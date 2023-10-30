@@ -1,0 +1,56 @@
+img{
+    height: 35vh;
+}
+.heading{
+    color: rgb(74, 4, 4);
+    ;
+}
+.my-container{
+    text-align: center;
+    
+}
+p{
+    color:brown;
+}
+.details{
+    text-align: left;
+    color: brown;
+}
+.listitms{
+    text-align: left;
+}
+.item1{
+    text-align: left;
+}
+.item2{
+    text-align: left;
+}
+
+.item3{
+    text-align: left;
+}
+.linkedin{
+    align-items: center;
+    color: red;
+}
+.inputs{
+    color: blue;
+    text-align: right;
+}
+.ipcon{
+    color: red;
+    background-color: rgb(54, 51, 51);
+    height: 20vh;
+    border-radius: 100px;
+    padding: 50px;
+    text-align: center;
+    margin: auto;
+    max-width: 400px;
+    box-shadow: 100px;
+}
+.country{
+    text-align: right;
+}
+.submit{
+    cursor: pointer;
+}
